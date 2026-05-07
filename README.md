@@ -52,7 +52,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidhant036&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SIDHANT036&theme=tokyo-night" />
 </div>
 
 ---
