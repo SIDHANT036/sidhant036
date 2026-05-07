@@ -67,9 +67,7 @@
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn: (add your link)  
-- Portfolio: (add your link)  
-
+- LinkedIn: www.linkedin.com/in/sidhant-narang 
 ---
 
 ⭐️ From Sidhant Narang
