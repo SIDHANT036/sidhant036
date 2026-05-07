@@ -2,7 +2,7 @@
 <h3 align="center">MSc Data Science Student | Machine Learning Enthusiast</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Real+ML+Projects;Data+Driven+Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Real+Machine+Learning+Projects;Data+Science+Learner;Python+%7C+ML+%7C+AI+Enthusiast" />
 </div>
 
 ---
@@ -10,26 +10,25 @@
 ## 🚀 About Me
 - 🎓 MSc Data Science (Professional) @ Deakin University  
 - 💻 Background in Software Engineering  
-- 📊 Interested in Machine Learning, Data Analysis & AI  
-- 🚀 Currently working on real-world ML projects  
-- 🎯 Goal: Become a strong Data Scientist (not just degree holder)
+- 📊 Interested in Machine Learning, AI, and Data Analysis  
+- 🚀 Working on real-world data science projects  
+- 🎯 Goal: Become a strong industry-ready Data Scientist  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+**Languages:**
 - Python  
-- R  
 - SQL  
+- R  
 
-### 📚 Libraries & Tools
+**Libraries:**
 - Pandas, NumPy  
 - Scikit-learn  
 - Matplotlib, Seaborn  
-- TensorFlow / PyTorch  
 
-### ⚙️ Tools
+**Tools:**
 - Git & GitHub  
 - Jupyter Notebook  
 - VS Code  
@@ -40,25 +39,13 @@
 
 <div align="center">
 
-![Sidhant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidhant036&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=sidhant036&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhant036&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhant036&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhant036&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 🔥 Featured Projects
-
-### 📌 1. ML Project (Add your real project)
-- Description: Short 1–2 line explanation  
-- Tech: Python, Scikit-learn  
-- Link: [GitHub Repo](#)
-
-### 📌 2. Data Analysis Project
-- Description: What problem you solved  
-- Tech: Pandas, Visualization  
-- Link: [GitHub Repo](#)
 
 ---
 
@@ -70,13 +57,18 @@
 
 ---
 
+## 📌 Featured Projects
+(Replace these with your real work)
+
+- 🔹 ML Project – Prediction Model using Python  
+- 🔹 Data Analysis – Insights from Real Dataset  
+- 🔹 AI Experiment – Basic Neural Network  
+
+---
+
 ## 🌐 Connect With Me
-
-<div align="center">
-  
-[LinkedIn](#) • [Portfolio](#)
-
-</div>
+- LinkedIn: (add your link)  
+- Portfolio: (add your link)  
 
 ---
 
