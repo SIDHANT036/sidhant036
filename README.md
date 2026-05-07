@@ -39,11 +39,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sidhant036&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sSIDHANT036&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidhant036&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDHANT036&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sidhant036&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDHANT036&theme=tokyonight&hide_border=true" />
 
 </div>
 
