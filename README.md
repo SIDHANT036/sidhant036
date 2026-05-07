@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sSIDHANT036&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=SIDHANT036&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDHANT036&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -57,12 +57,12 @@
 
 ---
 
-## 📌 Featured Projects
-(Replace these with your real work)
+## ⚡ Fun Visuals
 
-- 🔹 ML Project – Prediction Model using Python  
-- 🔹 Data Analysis – Insights from Real Dataset  
-- 🔹 AI Experiment – Basic Neural Network  
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
 
 ---
 
